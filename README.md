@@ -2,6 +2,10 @@
 
 This Django app is designed to manage organizations, memberships, invitations, and tasks. It provides a set of APIs to create, join, and manage organizations, invite members, and assign tasks to users within those organizations.
 
+## Demo
+
+https://github.com/gjboxer/assignment/assets/64975110/7e2daa9b-fb95-4b91-94eb-cfa381c7aef0
+
 ## Features
 
 1. **Organization Management**: Create, list, update, and delete organizations with details like name and description.
