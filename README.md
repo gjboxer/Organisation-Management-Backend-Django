@@ -10,7 +10,7 @@ This Django app is designed to manage organizations, memberships, invitations, a
 
 3. **Invitations**: Users can send and receive invitations to join organizations. Invitations can be accepted or rejected.
 
-4. **Task Assignment**: Create, list, update, and delete tasks within organizations. Tasks can be assigned to users.
+4. **View Task Assignment**: Users can see the task assigned to them in an organisation
 
 ## API Endpoints
 
