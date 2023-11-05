@@ -72,3 +72,13 @@ This Django app is designed to manage organizations, memberships, invitations, a
 
    - The Django admin panel (`/admin/`) can be used for managing organizations, users, tasks, and invitations.
 
+4. **Running the App**
+
+   - To run the app, use the following command:
+     ```
+     python manage.py runserver
+     ```
+
+5. **Accessing the App**
+
+   - Once the app is running, you can access it through a web browser at `http://127.0.0.1:8000/`.
